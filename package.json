@@ -1,0 +1,40 @@
+{
+    "name": "coredx-devops",
+    "displayName": "CoreDX-DevOps",
+    "description": "Extends CoreDX for development with Docker, Vagrant, AWS, Azure, IBM Cloud, and Vercel",
+    "icon": "kitchen_sink_devops.png",
+    "author": "Daniel Sieradski <daniel@self.agency>",
+    "publisher": "selfagency",
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/selfagency/vsc-coredx-devops.git"
+    },
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "amazonwebservices.aws-toolkit-vscode",
+        "aws-amplify.aws-amplify-vscode",
+        "bbenoist.vagrant",
+        "frenco.vscode-vercel",
+        "hashicorp.terraform",
+        "ibm.ibm-developer",
+        "ibm.ibmcloud-account",
+        "marcostazi.VS-code-vagrantfile",
+        "mark-tucker.aws-cli-configure",
+        "me-dutour-mathieu.vscode-github-actions",
+        "ms-azure-devops.azure-pipelines",
+        "ms-azuretools.vscode-azureappservice",
+        "ms-azuretools.vscode-azureresourcegroups",
+        "ms-azuretools.vscode-docker",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "ms-vscode-remote.vscode-remote-extensionpack",
+        "ms-vscode.azure-account",
+        "ms-vscode.azurecli",
+        "ph1p.zeit-co-vscode-schemas"
+    ]
+}
