@@ -5,7 +5,7 @@
     "icon": "kitchen_sink_devops.png",
     "author": "Daniel Sieradski <daniel@self.agency>",
     "publisher": "selfagency",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/selfagency/vsc-coredx-devops.git"
@@ -17,6 +17,7 @@
         "Extension Packs"
     ],
     "extensionPack": [
+        "ahmadalli.vscode-nginx-conf",
         "aleksandra.go-group-imports",
         "amazonwebservices.aws-toolkit-vscode",
         "arahata.linter-actionlint",
@@ -28,6 +29,7 @@
         "GoogleCloudTools.cloudcode",
         "hashicorp.terraform",
         "JacobPfeifer.pfeifer-hurl",
+        "jeff-hykin.better-shellscript-syntax",
         "joaoacdias.golang-tdd",
         "kennylong.kubernetes-yaml-formatter",
         "mark-tucker.aws-cli-configure",
@@ -50,9 +52,11 @@
         "redhat.vscode-yaml",
         "rogalmic.bash-debug",
         "Tailscale.vscode-tailscale",
+        "TheNuProjectContributors.vscode-nushell-lang",
         "thomas-baumgaertner.vcl",
         "timonwong.shellcheck",
         "vscode-aws-console.vscode-aws-console",
+        "yy0931.gitconfig-lsp",
         "zxh404.vscode-proto3"
     ]
 }
