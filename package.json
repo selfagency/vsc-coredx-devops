@@ -5,7 +5,7 @@
     "icon": "kitchen_sink_devops.png",
     "author": "Daniel Sieradski <daniel@self.agency>",
     "publisher": "selfagency",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/selfagency/vsc-coredx-devops.git"
@@ -20,7 +20,6 @@
         "ahmadalli.vscode-nginx-conf",
         "aleksandra.go-group-imports",
         "amazonwebservices.aws-toolkit-vscode",
-        "arahata.linter-actionlint",
         "Boto3typed.boto3-ide",
         "foxundermoon.shell-format",
         "github.vscode-github-actions",
